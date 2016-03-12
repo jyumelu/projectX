@@ -1,4 +1,4 @@
 input = gets.chomp
 num = input.to_i
-ans = 7 - num
+ans = num * 60
 puts ans
